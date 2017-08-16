@@ -19,8 +19,9 @@ module Web
       # When you add new directories, remember to add them here.
       #
       load_paths << [
-        'controllers',
-        'views'
+        'api'
+        #'controllers',
+        #'views'
       ]
 
       # Handle exceptions with HTTP statuses (true) or don't catch them (false).
