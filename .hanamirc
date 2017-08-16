@@ -1,0 +1,4 @@
+project=discipleship_api
+architecture=container
+test=minitest
+template=erb
