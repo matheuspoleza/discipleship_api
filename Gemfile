@@ -6,6 +6,7 @@ gem 'hanami-model', '~> 1.0'
 gem 'hanami-router', '~> 1.0'
 
 gem 'sqlite3'
+gem 'grape'
 
 group :development do
   # Code reloading
