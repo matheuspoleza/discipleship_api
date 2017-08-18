@@ -5,7 +5,6 @@ module Api
     format :json
 
     get do
-      status 200
       {}
     end
   end
